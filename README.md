@@ -6,10 +6,13 @@ I’m always learning and experimenting with new technologies, and I’m looking
 # Technologies I Work With
 ## Frontend
 *  React
-*  JavaScript
+*  JavaScript/Typescript
 *  Tailwind/Boostrap
+*  JQuery
+  
 ## Backend
 *  Node.js
+*  FastAPI
 *  Express
 *  MongoDB
 *  TypeScript
