@@ -14,6 +14,7 @@ I’m always learning and experimenting with new technologies, and I’m looking
 ## Backend
 *  Node.js
 *  FastAPI
+*  Python
 *  Express
 *  MongoDB
 *  TypeScript
