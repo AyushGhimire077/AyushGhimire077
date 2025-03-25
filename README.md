@@ -1,5 +1,6 @@
-# Aayush Ghimire 
-Hi there! I'm Ayush, a passionate MERN stack developer with a strong interest in building dynamic web applications. I enjoy working with React, Node.js, MongoDB, and creating solutions that help businesses and users.
+# Hey, I'm Ayush!
+
+I’m a Full Stack Developer with experience in creating modern web solutions. I know how to work with MERN Stack, and I also build backends using Python with FastAPI. Plus, I can even make AI-powered apps!
 
 I’m always learning and experimenting with new technologies, and I’m looking forward to growing as a developer while contributing to open-source projects.
 
