@@ -1,25 +1,36 @@
-# Hey, I'm Ayush!
+# 👋 Hey, I'm Ayush!
 
-I’m a Full Stack Developer with experience in creating modern web solutions. I know how to work with MERN Stack, and I also build backends using Python with FastAPI and deep diving into java and spring boot. Plus, I can even make AI-Agents!
+I’m a **Full Stack Developer** passionate about building scalable, user-friendly software solutions.  
+I work primarily with **Java** and **JavaScript/TypeScript**, and I enjoy creating robust solutions.
 
-I’m always learning and experimenting with new technologies, and I’m looking forward to growing as a developer while contributing to open-source projects.
+---
 
-# Technologies I Work With
-## Frontend
-*  React
-*  JavaScript/Typescript
-*  Tailwind/Boostrap
-*  JQuery
-*  Zustand
-  
-## Backend
-*  Node.js
-*  FastAPI
-*  Python
-*  Express
-*  MongoDB
-*  TypeScript
+## Technologies I Work With
 
-## Contact Me
-* Email: ayushghimire077@gmail.com
-* LinkedIn: www.linkedin.com/in/ayushghimiree
+### 🔹 Frontend
+- React
+- JavaScript / TypeScript
+- Tailwind CSS / Bootstrap
+- jQuery
+- Zustand
+
+### 🔹 Backend
+- Java / Spring Boot
+- Node.js / Express
+- SQL / NoSQL Databases
+- TypeScript
+
+---
+
+## 📫 Contact Me
+- **Email:** [ayushghimire077@gmail.com](mailto:ayushghimire077@gmail.com)  
+- **Phone:** +977 9704008784  
+- **LinkedIn:** [linkedin.com/in/ayushghimiree](https://www.linkedin.com/in/ayushghimiree)  
+
+---
+ ## 📊 GitHub Stats
+
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushghimiree&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushghimiree&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ayushghimiree&theme=tokyonight&hide_border=false)
+
