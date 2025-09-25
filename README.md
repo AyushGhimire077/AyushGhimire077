@@ -28,9 +28,7 @@ I work primarily with **Java** and **JavaScript/TypeScript**, and I enjoy creati
 - **LinkedIn:** [linkedin.com/in/ayushghimiree](https://www.linkedin.com/in/ayushghimiree)  
 
 ---
- ## 📊 GitHub Stats
+##   GitHub Stats
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushghimiree&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushghimiree&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=ayushghimiree&theme=tokyonight&hide_border=false)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=AyushGhimire077&theme=tokyonight&hide_border=false)
 
